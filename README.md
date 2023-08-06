@@ -70,3 +70,27 @@ Streams API allows an application to act as a stream processor, consuming an inp
 
 Connector API allows building and running reusable producers or consumers that connect Kafka topics to existing applications or data systems. For example, a connector to a relational database might capture every change to a table.
 
+
+# Architecture
+
+![Architecture](https://github.com/Laxman7760Dixit/stock-market-data-engineering-project/assets/94826932/f77d73ac-83ea-40b3-b26b-4c62cef52fe3)
+
+# Technology Used
+
+Programming Language - Python
+
+Amazon Web Service (AWS)
+
+S3 (Simple Storage Service)
+
+Athena
+
+Glue Crawler
+
+Glue Catalog
+
+EC2
+
+Apache Kafka
+
+
